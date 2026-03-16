@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except reports
+!.gitignore
+!ai-news-weekly-*.md
+!ai-news-daily-*.md
